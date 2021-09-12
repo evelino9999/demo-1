@@ -13,5 +13,6 @@
   },
   "videos": [
     {"id": 1, "src": "UVoXbAPY8Dk"}
-  ]
+  ],
+  "video": ["UVoXbAPY8Dk"]
 }
